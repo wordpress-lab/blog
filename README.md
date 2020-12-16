@@ -1,2 +1,2 @@
-# blog
+# Wordpress Blog
 Wordpress technical articles
